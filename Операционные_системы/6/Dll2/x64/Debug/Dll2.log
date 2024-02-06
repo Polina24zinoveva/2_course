@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Node.cpp
+  Queue.cpp
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(13,8): warning C4273: Queue::Queue: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(12,5): message : см. предыдущее определение "{ctor}"
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(19,13): warning C4273: Queue::push: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(13,10): message : см. предыдущее определение "push"
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(35,12): warning C4273: Queue::pop: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(14,9): message : см. предыдущее определение "pop"
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(49,13): warning C4273: Queue::writeinfile: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(15,10): message : см. предыдущее определение "writeinfile"
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(82,13): warning C4273: Queue::readfromfile: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(16,10): message : см. предыдущее определение "readfromfile"
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.cpp(122,9): warning C4273: Queue::~Queue: несовместимое связывание dll
+C:\Users\polin\source\repos\ОС\Dll2\Dll2\Queue.h(17,6): message : см. предыдущее определение "{dtor}"
+  Создание кода...
+     Создается библиотека C:\Users\polin\source\repos\ОС\Dll2\x64\Debug\Dll2.lib и объект C:\Users\polin\source\repos\ОС\Dll2\x64\Debug\Dll2.exp
+  Dll2.vcxproj -> C:\Users\polin\source\repos\ОС\Dll2\x64\Debug\Dll2.dll
